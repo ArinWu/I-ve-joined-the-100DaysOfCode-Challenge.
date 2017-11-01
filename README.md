@@ -15,3 +15,11 @@ coding for 100days recording myself
 **Thoughts:** Don't hurry, keep going.
 
 **Link to work: **[xx](actuallly nothing)
+
+### DAy 3: November 1. Tuesday
+
+**Today's Progress**：review lot css，html in Mzilla.
+  
+**Thoughts:** I should focus last for hours to finished it as fast as posibble.
+  
+**link to work**
