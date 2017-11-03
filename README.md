@@ -23,3 +23,10 @@ coding for 100days recording myself
 **Thoughts:** I should focus last for hours to finished it as fast as posibble.
   
 **link to work**
+
+#Day 4: Novermber 2. Wedsday
+
+**Today's Progress**: 5 hours moizlla readding, and mengma shu 2.5 hours \
+
+**Thoughts:** KEEPing going; YOu'd better 
+**Lintowrok** none...
