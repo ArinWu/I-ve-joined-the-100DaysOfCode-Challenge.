@@ -24,9 +24,14 @@ coding for 100days recording myself
   
 **link to work**
 
-#Day 4: Novermber 2. Wedsday
+###Day 4: Novermber 2. Wedsday
 
 **Today's Progress**: 5 hours moizlla readding, and mengma shu 2.5 hours \
 
 **Thoughts:** KEEPing going; YOu'd better 
 **Lintowrok** none...
+
+### Days 16:  11月15日，星期三。
+**进度**： 完成css大白制作，及其基于hexo，github pages的个人网页。
+**Thoughts：**必须坚持这种写代码的感觉。
+**Link** (https://codepen.io/ArinWu/pen/wPqBNv?editors=1100)[大白] ，[github personal pages][arinwu.github.io]
