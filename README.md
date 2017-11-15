@@ -34,4 +34,4 @@ coding for 100days recording myself
 ### Days 16:  11月15日，星期三。
 **进度**： 完成css大白制作，及其基于hexo，github pages的个人网页。
 **Thoughts：**必须坚持这种写代码的感觉。
-**Link** (https://codepen.io/ArinWu/pen/wPqBNv?editors=1100)[大白] ，[github personal pages][arinwu.github.io]
+**Link** [大白](https://codepen.io/ArinWu/pen/wPqBNv?editors=1100). [pages](arinwu.github.io).
