@@ -38,3 +38,20 @@ coding for 100days recording myself
 **Thoughts：**必须坚持这种写代码的感觉。
 
 **Link** [大白](https://codepen.io/ArinWu/pen/wPqBNv?editors=1100). [pages](arinwu.github.io).
+
+### Days ： 
+
+**进度：** 
+
+**Thoughts：**
+
+**Link** []()
+
+### Days ：11.17 星期 四
+
+**进度：** 优化网站，暗网
+
+**Thoughts：** 做自己想做的
+
+**Link** [暗网](https://arinwu.github.io/2017/11/16/%E5%A6%82%E4%BD%95%E8%BF%9B%E5%85%A5%E5%9C%B0%E4%B8%8B%E9%BB%91%E7%BD%91/
+)
