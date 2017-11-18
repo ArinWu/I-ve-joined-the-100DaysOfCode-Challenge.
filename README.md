@@ -47,7 +47,7 @@ coding for 100days recording myself
 
 **Link** []()
 
-### Days ：11.16 星期 四
+### Days 17：11.16 星期 四
 
 **进度：** 优化网站，暗网
 
@@ -55,3 +55,10 @@ coding for 100days recording myself
 
 **Link** [暗网](https://arinwu.github.io/2017/11/16/%E5%A6%82%E4%BD%95%E8%BF%9B%E5%85%A5%E5%9C%B0%E4%B8%8B%E9%BB%91%E7%BD%91/
 )
+### Days 18：  11.17. 星期五
+
+**进度：** css 
+
+**Thoughts：** I should  up
+
+**Link** []()
