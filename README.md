@@ -62,3 +62,19 @@ coding for 100days recording myself
 **Thoughts：** I should  up
 
 **Link** []()
+
+### Days 19：  11.18. 星期六
+
+**进度：** 超感猎杀
+
+**Thoughts：** I feel lost
+
+**Link** []()
+
+### Days 20：  11.19. 星期六
+
+**进度：** 超感猎杀
+
+**Thoughts：** I feel lost
+
+**Link** []()
