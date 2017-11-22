@@ -78,3 +78,38 @@ coding for 100days recording myself
 **Thoughts：** I feel lost
 
 **Link** []()
+
+### Days 21：  11.20. 星期天
+
+**进度：** read a lot articles about animation，design
+
+**Thoughts：** Keep going on 
+
+**Link** []()
+
+### Days 22：  11.21. 星期一
+
+**进度：** Read some plan，and start a plan
+
+**Thoughts：** time lapse really fast
+
+**Link** []()
+
+### Days 23：  11.12. 星期二
+
+**进度：** Read some plan，and start a plan
+
+**Thoughts：** time lapse really fast
+
+**Link** []()
+
+
+### Days 24：  11.12. 星期三
+
+**进度：** Start basic css draw the first day： Days 1；
+
+**Thoughts：** time lapse really fast
+
+**Link** []()
+
+
