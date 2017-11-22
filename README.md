@@ -91,7 +91,7 @@ coding for 100days recording myself
 
 **进度：** Read some plan，and start a plan
 
-**Thoughts：** time lapse really fast
+**Thoughts：** design is art
 
 **Link** []()
 
@@ -99,7 +99,7 @@ coding for 100days recording myself
 
 **进度：** Read some plan，and start a plan
 
-**Thoughts：** time lapse really fast
+**Thoughts：** basic is important
 
 **Link** []()
 
@@ -108,8 +108,9 @@ coding for 100days recording myself
 
 **进度：** Start basic css draw the first day： Days 1；
 
-**Thoughts：** time lapse really fast
+**Thoughts：** I  got too hurry at css, slow it down, master at basic stuff first..
 
-**Link** []()
+**Link** [kaola](https://codepen.io/ArinWu/pen/gXedqL?editors=1100)
+** Tutorial Link** [Good pure css tutorial for newbies ](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
 
 
