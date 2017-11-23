@@ -113,4 +113,14 @@ coding for 100days recording myself
 **Link** [kaola](https://codepen.io/ArinWu/pen/gXedqL?editors=1100)
 ** Tutorial Link** [Good pure css tutorial for newbies ](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
 
+- [ ] #
+### Days 1&25： Nov 25 * 4
+- Plan: 放到公司
+1. Reading article to making the practice plan;
+
+- Today: 放公司的风格
+
+- Summary:的风格是否代购
+
+- Link：扶桑岛国放格式
 
