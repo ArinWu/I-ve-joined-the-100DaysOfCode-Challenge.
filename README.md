@@ -113,15 +113,20 @@ coding for 100days recording myself
 **Link** [kaola](https://codepen.io/ArinWu/pen/gXedqL?editors=1100)
 ** Tutorial Link** [Good pure css tutorial for newbies ](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2)
 
-- [ ] #
+- [x] #
 ### Days 1&25： Nov 25 * 4
-- Plan: 放到公司
+- Plan: 
 1. Reading article to making the practice plan;
+2. Finish the plan.
+3. sum your day.
+- Today: Finished pure css Pikachu,
 
-- Today: 放公司的风格
+- Summary: out of color picker, shape making, always generate wrong code, I think I have enhence my CSS, read some books by the way I have improve some jQuery, Sass too.
 
-- Summary:的风格是否代购
+- Link：https://codepen.io/ArinWu/pen/POeBYe
 
-- Link：扶桑岛国放格式
+- external:
+<iframe height='265' scrolling='no' title='Days:  1&25 Pure CSS Pikachu' src='//codepen.io/ArinWu/embed/POeBYe/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ArinWu/pen/POeBYe/'>Days:  1&25 Pure CSS Pikachu</a> by Arin Wu (<a href='https://codepen.io/ArinWu'>@ArinWu</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
-把 v 坚固
+
