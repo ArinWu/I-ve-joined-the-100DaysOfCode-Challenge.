@@ -130,3 +130,20 @@ coding for 100days recording myself
 </iframe>
 
 
+- [x] # 
+### Day : 2&25: Nov 26*5
+- Plan: start to read books. master my basic. find a ground, there have plan.
+
+- Today: Pure CSS Patrick Star
+
+- Summary:
+1. Why don’t just create?
+2. Found out amazing jQuery!!
+3. I need study all element first!!
+4. Create new, design by myself, learn Sass!!
+
+- Link：https://codepen.io/ArinWu/pen/NwzXLr?editors=0110
+
+-external: 
+<iframe height='265' scrolling='no' title='Days 2&26: Pure CSS Patrick Star' src='//codepen.io/ArinWu/embed/NwzXLr/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ArinWu/pen/NwzXLr/'>Days 2&26: Pure CSS Patrick Star</a> by Arin Wu (<a href='https://codepen.io/ArinWu'>@ArinWu</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
