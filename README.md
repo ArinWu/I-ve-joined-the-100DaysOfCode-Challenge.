@@ -147,3 +147,29 @@ coding for 100days recording myself
 -external: 
 <iframe height='265' scrolling='no' title='Days 2&26: Pure CSS Patrick Star' src='//codepen.io/ArinWu/embed/NwzXLr/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ArinWu/pen/NwzXLr/'>Days 2&26: Pure CSS Patrick Star</a> by Arin Wu (<a href='https://codepen.io/ArinWu'>@ArinWu</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
+
+- [x] # 
+### Day : 3&27: Nov 27*7
+- Plan: Finish Doraemon; started to read books;
+
+- Today: Pure CSS Doraemon
+
+- Summary:
+Din't finsh, but you know the key it's keep going, didn't finish it's okay;
+
+- Link：
+
+-external: 
+
+- [x] # 
+### Day : 3&27: Nov 27*7
+- Plan: Keep doing Doraemon; started to read books;
+
+- Today: Pure CSS Doraemon
+
+- Summary:
+Din't finsh, but you know the key it's keep going, didn't finish it's okay;
+
+- Link：
+
+-external: 
