@@ -162,13 +162,26 @@ Din't finsh, but you know the key it's keep going, didn't finish it's okay;
 -external: 
 
 - [x] # 
-### Day : 3&27: Nov 27*7
+### Day : &27: Nov 27*7
 - Plan: Keep doing Doraemon; started to read books;
 
 - Today: Pure CSS Doraemon
 
 - Summary:
 Din't finsh, but you know the key it's keep going, didn't finish it's okay;
+
+- Link：
+
+-external: 
+
+
+### Day : 6&30: Nov 29*3
+- Plan: 
+
+- Today: 
+
+- Summary:
+迷茫中...
 
 - Link：
 
